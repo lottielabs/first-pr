@@ -20,7 +20,7 @@ Recursos: https://jsdoc.app/ <br>
 Saber trabajar con las herramientas colaborativas es fundamental para este proyecto. Para eso, subiran la función que hicieron a un repositorio en github, mediante un pull request, siguiendo un flujo más o menos común.<br>
  * Crear un issue en el repositorio siguiendo la plantilla de postulación que verán a la hora de crearlo.
  * Seguir los pasos del readme.md del repositorio.
- * Hacer el pull request. <br>join-community-bot
+ * Hacer el pull request. <br>
 
 Recursos: https://gist.github.com/EnzoDiazDev/31e73d0573142d0573eb58d69a5158fd<br>
 Repositorio: *Este es el repositorio.*<br>
