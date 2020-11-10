@@ -20,7 +20,7 @@ Recursos: https://jsdoc.app/ <br>
 Saber trabajar con las herramientas colaborativas es fundamental para este proyecto. Para eso, subiran la función que hicieron a un repositorio en github, mediante un pull request, siguiendo un flujo más o menos común.<br>
  * Crear un issue en el repositorio siguiendo la plantilla de postulación que verán a la hora de crearlo.
  * Seguir los pasos del readme.md del repositorio.
- * Hacer el pull request. <br>
+ * Hacer el pull request. <br>join-community-bot
 
 Recursos: https://gist.github.com/EnzoDiazDev/31e73d0573142d0573eb58d69a5158fd<br>
 Repositorio: *Este es el repositorio.*<br>
@@ -32,7 +32,7 @@ Una vez hecho, están dentro.<br>
 ## Cómo contribuir
 Crea un issue siguiendo la plantilla de postulación. <br>
 Crea un fork y clona tu fork (podés guiarte sigiendo los pasos del [gist](https://gist.github.com/EnzoDiazDev/31e73d0573142d0573eb58d69a5158fd))<br>
-Tu pull request deberá ser de un archivo nuevo, con tu username de Discord en el canal de Fazt, de extensión `.js` o `.ts`. <br>
+Tu pull request deberá ser de un archivo nuevo, con tu username de Discord en el canal de Fazt (o de github si no formas parte de la comunidad), de extensión `.js` o `.ts`. <br>
 El archivo tendrá que tener los pasos realizados hasta el punto 5.<br>
 El punto 2 (breve resumen), debe estar al inicio del archivo en forma de comentario. <br>
 A la hora de realizar el pull request, crea una referencia al issue* que abriste anteriormente y, como descripción de este, explica brevemente por qué elegiste ese método para esta tarea.
